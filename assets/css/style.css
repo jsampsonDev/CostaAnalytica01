@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #73c5eb;
+  color: #780000;
   text-decoration: none;
 }
 
@@ -1728,7 +1728,7 @@ section {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #fff;
+  /* background: #fff; */
 }
 
 #footer .footer-top .footer-contact {
@@ -1742,7 +1742,7 @@ section {
   line-height: 1;
   text-transform: uppercase;
   font-weight: 600;
-  color: #000001;
+  color: #C80000;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1756,7 +1756,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #000001;
+  color: #C80000;
   position: relative;
   padding-bottom: 12px;
 }
