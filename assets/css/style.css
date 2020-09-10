@@ -166,7 +166,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #C80000;
+  /* color: #C80000; */
+  border-radius: 50px;
+  padding: 6px 25px 7px 25px;
+  white-space: nowrap;
+  transition: 0.3s;
+  display: inline-block;
+  border: 2px solid #C80000;
 }
 
 .nav-menu .drop-down ul {
